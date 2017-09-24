@@ -5,3 +5,7 @@ Busca de Locais Api Google Places
 
 
 > $ react-native run-android
+
+
+
+![alt text](https://i.imgur.com/lpm51tQ.png)
