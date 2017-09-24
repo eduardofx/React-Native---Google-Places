@@ -15,7 +15,7 @@ import {
 } from 'react-native';
 import axios from 'axios';
 
-const G_KEY = "AIzaSyDIqtGD3sHEOhN2VvZaa4j0Kwhz6qUVFUY";  
+const G_KEY = "AIzaSyCfxnboDXryl90ZRsv4ewY0cY8SWi4Cvi8";  
 const styles = require('./Style'); 
 
 class Local extends Component {
